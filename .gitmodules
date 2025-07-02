@@ -1,0 +1,3 @@
+[submodule "vendor/vaultwarden"]
+	path = vendor/vaultwarden
+	url = https://github.com/dani-garcia/vaultwarden.git
